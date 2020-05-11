@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-workshopgrapql-dev-160942-authRole",
+            "UnauthRoleArn": "arn:aws:iam::526214847880:role/amplify-workshopgrapql-dev-160942-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::526214847880:role/amplify-workshopgrapql-dev-160942-authRole",
+            "Region": "eu-central-1",
+            "DeploymentBucketName": "amplify-workshopgrapql-dev-160942-deployment",
+            "UnauthRoleName": "amplify-workshopgrapql-dev-160942-unauthRole",
+            "StackName": "amplify-workshopgrapql-dev-160942",
+            "StackId": "arn:aws:cloudformation:eu-central-1:526214847880:stack/amplify-workshopgrapql-dev-160942/0fc52220-9391-11ea-88e7-0222edd00d60",
+            "AmplifyAppId": "d1a6398p7do525"
+        },
+        "categories": {
+            "auth": {
+                "workshopgrapql62ec89c8": {}
+            }
+        }
+    }
+}
